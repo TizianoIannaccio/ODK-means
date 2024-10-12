@@ -1,2 +1,2 @@
 # ODK-means
-Work in progress
+This folder has been created to allow readers of my Master's Degree Thesis to access the code of the novel algorithm ODK-means.
